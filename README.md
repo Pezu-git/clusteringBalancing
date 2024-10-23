@@ -9,6 +9,8 @@
 ## Задание №2
 ### Weighted Round Robin 7 screen
 ![Round Robin 7 screen](https://github.com/Pezu-git/clusteringBalancing/blob/main/img/hw2.png)
+### HAProxy stat
+![Round Robin 7 screen](https://github.com/Pezu-git/clusteringBalancing/blob/main/img/hw2_stat.png)
 ### HAProxy config
 [haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/haproxy-2.cfg)
 
