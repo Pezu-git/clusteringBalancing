@@ -15,5 +15,11 @@
 [haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/haproxy-2.cfg)
 
 ## Задание №3*
+### HAProxy + Nginx
+![Round Robin 7 screen](https://github.com/Pezu-git/clusteringBalancing/blob/main/img/hw3.png)
+### HAProxy config
+[haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/haproxy-3.cfg)
+### Nginx config
+[haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/http.conf)
 
 ## Задание №4*
