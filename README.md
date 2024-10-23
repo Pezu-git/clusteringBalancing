@@ -23,3 +23,7 @@
 [nginx_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/http.conf)
 
 ## Задание №4*
+### HAProxy + Nginx
+![HAProxy multy servers](https://github.com/Pezu-git/clusteringBalancing/blob/main/img/hw4.png)
+### HAProxy config
+[haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/haproxy-4.cfg)
