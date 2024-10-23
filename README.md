@@ -20,6 +20,6 @@
 ### HAProxy config
 [haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/haproxy-3.cfg)
 ### Nginx config
-[haproxy_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/http.conf)
+[nginx_cfg](https://github.com/Pezu-git/clusteringBalancing/blob/main/files/http.conf)
 
 ## Задание №4*
